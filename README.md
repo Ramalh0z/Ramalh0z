@@ -1,10 +1,9 @@
-# olá, eu sou o arthur ramalho
--- (de preferência ramalho)
+# olá, me chamo arthur ramalho!
 
-- 🔭 estou trabalhando com java na robótica
-- 🌱 estou estudando no 2° ano do Ensino Médio 
-- 👯 gosto de trabalhar com jogos, 3d, mobile, web e mil e uma coisas 
-- 📫 me procure no twitter: @ramalh0z
+- 🔭 trabalho com java☕ e flutter🚀 na equipe de robótica [@Destemidos](https://www.instagram.com/destemidos.10078/)
+- 🌱 estudo no 3° ano do Novo Ensino Médio 
+- 👯 gosto muito jogos, computação gráfica. shaders e etc 
+- 📫 me procure no twitter: [@ramalh0z](https://twitter.com/ramalh0z)
 
 <div>
   <a href="https://beacons.ai/ramalh0z">
